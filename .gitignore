@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pdb
+*.$py.class
+
+# C Extensions
+*.so
+
+# Distribution / packaging
+.Python
+-env/
+env.bak/
+venv/
+*.egg-info/
+.dist-info/
+
+# Cython debug symbols
+cython_debug/
